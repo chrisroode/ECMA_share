@@ -1,0 +1,6 @@
+# ignore the /node_modules folder
+/node_modules
+
+
+# It's a mac thing
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "name": "ecma_share",
+  "version": "1.0.0",
+  "description": "A collection of various little code bits.  Take what you want and leave the rest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "Chris Roode",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
